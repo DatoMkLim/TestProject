@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke android:width="2px" android:color="@android:color/black"/>
+    <solid android:color="@android:color/background_light"/>
+</shape><!-- From: file:/C:/Users/Mk/Desktop/MkLim-FYP/app/src/main/res/drawable/item.xml -->

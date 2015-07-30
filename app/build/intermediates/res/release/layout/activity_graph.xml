@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:id="@+id/chart"
+    android:background="#607D8B">
+</LinearLayout><!-- From: file:/C:/Users/Mk/Desktop/MkLim-FYP/app/src/main/res/layout/activity_graph.xml -->
